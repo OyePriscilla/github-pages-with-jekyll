@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Priscilla Coding Blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Let's gather and code here!
